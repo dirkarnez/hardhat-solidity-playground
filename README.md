@@ -4,7 +4,8 @@ hardhat-solidity-playground
 - [Getting started with Hardhat 3 | Ethereum development environment for professionals by Nomic Foundation](https://hardhat.org/docs/getting-started#installation)
 
 ### Books
-- [博客來-Solidity 實戰全書：完整掌握智能合約！成為獨立開發 Dapp 的區塊鏈工程師](https://www.books.com.tw/products/0010928889?srsltid=AfmBOorjpJhZ1C-ladrBROoR7lN7UQwARmyS3y5dAqMnfqAzwTeUpS8V)
+- [博客來-Solidity 實戰全書：完整掌握智能合約！成為獨立開發 Dapp 的區塊鏈工程師](https://www.books.com.tw/products/0010928889)
+  - ISBN: 9786263330795
 
 ### Solidity
 - `npm install --global solc`
